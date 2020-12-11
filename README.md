@@ -1,13 +1,12 @@
-### I'm Erickson Vital 👋
+# I'm Erickson Vital 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickson-vital-167a1b187/)](https://www.linkedin.com/in/erickson-vital-167a1b187/)  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/erickson.vital/)
 
-Here are some ideas to get you started:
+### I am a young student of Computer Science in search of new learning and always wanting to learn new technologies
 
-- 🔭 I’m currently working on ... Web
-- 🌱 I’m currently learning ... React and Python
-- 👯 I’m looking to collaborate on ... PHP and Web
-- 🤔 I’m looking for help with ... React
-- 💬 Ask me about ...
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/erickson-vital-167a1b187/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I Love Basketball
+## Acquirements
+- HTML/CSS
+- PHP
+- Python - learning
+- React - learning
+- Java Script - learning
