@@ -9,5 +9,5 @@
 - HTML/CSS
 - PHP
 - Python - learning
-- React - learning
+- React Native - learning
 - Java Script - learning
