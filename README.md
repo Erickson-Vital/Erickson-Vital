@@ -1,15 +1,28 @@
-# Erickson Vital 👋
+# 🔥 Erickson Vital
+
+**Mobile Developer** 
+
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/erickson-vital-167a1b187)
+
+Mobile developer with knowledge of React Native and Nodejs.
+
+- ⚡ Currently mastering: **React Native**
+- 📚 Currently learning: **Nodejs, NextJs**
+- 📫 How to reach me: ericksonrodrigo321@gmail.com
+
+---
+
+### Main technologies:
+
+<code><img title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
+<code><img title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
+<code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code>
+  <img title="Next.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" />
+</code>
+<code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickson-vital&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erickson-vital&layout=compact&langs_count=8&theme=dracula)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickson-vital-167a1b187/)](https://www.linkedin.com/in/erickson-vital-167a1b187/)  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/erickson.vital/) ![](https://komarev.com/ghpvc/?username=Erickson-Vital&color=green)
-
-### I am a young student of Computer Science in search of new learning and always wanting to learn new technologies
-### I am looking to collaborate on some projects in React Native.
-
-## Acquirements
-- HTML/CSS
-- PHP
-- React Native - learning
-- Java Script - learning
