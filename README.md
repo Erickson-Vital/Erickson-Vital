@@ -23,6 +23,7 @@ const Developer = {
     name: 'Erickson Vital',
     age: 21,
     language: 'JavaScript, React Native, Node.js, PHP, Python', 
+    linkedIn: 'https://www.linkedin.com/in/erickson-vital-167a1b187/',
     isProgrammer: true,
 }
 
