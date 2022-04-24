@@ -1,5 +1,5 @@
 <div style="display: inline_block" align="center">
-  <h2> Erickson Vital </h2>
+  <h2>Erickson Vital 👨‍💻</h2>
 </div>
 
 <div><br>
