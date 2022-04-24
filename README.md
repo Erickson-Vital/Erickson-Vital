@@ -1,28 +1,47 @@
-# 🔥 Erickson Vital
+<div style="display: inline_block" align="center">
+  <h2> Erickson Vital </h2>
+</div>
 
-**Mobile Developer** 
+<div><br>
+  <div style="display: inline_block" align="center">
+    <a href="#"><img src="./code-icon.svg" height="120em"/></a>
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/erickson-vital-167a1b187)
+    < Olá a todos, Eu sou o Erickson e bem-vindo ao meu perfil do github. 🚀 />
+    < Hi everyone, I'm Erickson and welcome to my github profile. 🚀 />
+  </div>
+</div>
 
-Mobile developer with knowledge of React Native and Nodejs.
+</br>
 
-- ⚡ Currently mastering: **React Native**
-- 📚 Currently learning: **Nodejs, NextJs**
-- 📫 How to reach me: ericksonrodrigo321@gmail.com
+### 👨🏻‍💻 About me:
 
----
+</br>
 
-### Main technologies:
+```javascript
 
-<code><img title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code>
-  <img title="Next.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" />
-</code>
-<code><img title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
+const Developer = {
+    name: 'Erickson Vital',
+    age: 21,
+    language: 'JavaScript, React Native, Node.js, PHP, Python', 
+    isProgrammer: true,
+}
 
-<br>
+console.log(Developer)
+```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickson-vital&show_icons=true&theme=radical)
+</br>
+
+### 📚 Knowledge:
+
+[<img height="32em" alt="Javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />][js]
+[<img height="32em" alt="NodeJS" src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" />][js]
+[<img height="32em" alt="PHP" src="https://www.svgrepo.com/show/349474/php.svg" />][js]
+[<img height="32em" alt="Python" src="https://www.svgrepo.com/show/354238/python.svg" />][js]
+
+
+#### More knowledges
+
+[<img height="32em" alt="HTML" src="https://www.svgrepo.com/show/349402/html5.svg" />][html]
+[<img height="32em" alt="CSS" src="https://www.svgrepo.com/show/349330/css3.svg" />][css]
+[<img height="32em" alt="VSCODE IDE" src="https://www.svgrepo.com/show/374171/vscode.svg" />][vscode]
+[<img height="32em" alt="Figma" src="https://www.svgrepo.com/show/354987/figma.svg" />][vscode]
